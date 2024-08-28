@@ -1,6 +1,6 @@
 # Sistema de gerencimaneto de Criptomoedas 
 
-  Este projeto tem como objetivo facilitar transações com Criptomoedas para o nosso maior clientye, Tio Patinhas. 
+  Este projeto tem como objetivo facilitar transações com Criptomoedas para o nosso maior cliente, Tio Patinhas. 
 
   ## Como Executar
 
